@@ -1,0 +1,13 @@
+{
+    "name": "alextalos/testcomposer",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Alex Ramirez",
+            "email": "alex@talosdigital.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+ }
