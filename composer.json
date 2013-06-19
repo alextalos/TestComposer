@@ -7,6 +7,14 @@
             "email": "alex@talosdigital.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "Testcomp": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    },
     "minimum-stability": "dev",
     "require": {
     }
